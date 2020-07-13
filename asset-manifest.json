@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/benchmark-calendar/static/css/main.5f361e03.chunk.css",
+    "main.js": "/benchmark-calendar/static/js/main.40723d0e.chunk.js",
+    "main.js.map": "/benchmark-calendar/static/js/main.40723d0e.chunk.js.map",
+    "runtime-main.js": "/benchmark-calendar/static/js/runtime-main.3ec3791f.js",
+    "runtime-main.js.map": "/benchmark-calendar/static/js/runtime-main.3ec3791f.js.map",
+    "static/js/2.8b1fa4c8.chunk.js": "/benchmark-calendar/static/js/2.8b1fa4c8.chunk.js",
+    "static/js/2.8b1fa4c8.chunk.js.map": "/benchmark-calendar/static/js/2.8b1fa4c8.chunk.js.map",
+    "index.html": "/benchmark-calendar/index.html",
+    "precache-manifest.4a747f30abf9d3569dcf1800e30667bf.js": "/benchmark-calendar/precache-manifest.4a747f30abf9d3569dcf1800e30667bf.js",
+    "service-worker.js": "/benchmark-calendar/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/benchmark-calendar/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8b1fa4c8.chunk.js.LICENSE.txt": "/benchmark-calendar/static/js/2.8b1fa4c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ec3791f.js",
+    "static/js/2.8b1fa4c8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.40723d0e.chunk.js"
+  ]
+}
